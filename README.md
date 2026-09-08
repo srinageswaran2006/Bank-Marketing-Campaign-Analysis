@@ -152,11 +152,11 @@ Based on the analysis:
 
 ### Page 1 — Campaign Performance
 
-![Campaign Performance Dashboard](screenshots/page1-dashboard.png)
+![Campaign Performance Dashboard](Screenshots/page1-dashboard.png)
 
 ### Page 2 — Campaign Insights
 
-![Campaign Insights Dashboard](screenshots/page2-dashboard.png)
+![Campaign Insights Dashboard](Screenshots/page2-dashboard.png)
 ---
 
 ## Conclusion
