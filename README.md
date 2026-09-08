@@ -148,16 +148,15 @@ Based on the analysis:
 
 ---
 
-## Dashboard Preview
+### Dashboard Preview
 
 ### Page 1 — Campaign Performance
 
-_Add dashboard screenshot here._
+![Campaign Performance Dashboard](screenshots/page1-dashboard.png)
 
 ### Page 2 — Campaign Insights
 
-_Add dashboard screenshot here._
-
+![Campaign Insights Dashboard](screenshots/page2-dashboard.png)
 ---
 
 ## Conclusion
