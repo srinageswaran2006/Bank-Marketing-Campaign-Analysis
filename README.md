@@ -184,5 +184,9 @@ Bank-Marketing-Campaign-Analysis/
 ├── powerbi/
 │   └── bank_marketing_dashboard.pbix
 │
+├── screenshots/
+│   ├── page1-dashboard.png
+│   └── page2-dashboard.png
+│
 ├── README.md
 └── insights.md
